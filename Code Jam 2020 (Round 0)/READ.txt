@@ -1,0 +1,7 @@
+My first Code Jam.
+Rank: 22562
+Points: 42
+Problem Solved: 3 (contest time)
+
+Submission: https://codingcompetitions.withgoogle.com/codejam/submissions/000000000019fd27/QW51cGFtLkFraWI
+Main Rank: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27
