@@ -1,0 +1,7 @@
+My second CodeJam.
+Rank: 23933
+Points: 30
+Problem Solved: 3 with partial solve (contest time)
+
+Submission: https://codingcompetitions.withgoogle.com/codejam/submissions/000000000043580a/QW51cGFtLkFraWI
+Main Rank: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a
